@@ -1,0 +1,17 @@
+.labelText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.searchInput{
+    height: 20px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding-left: 12px;
+    margin-left: 5px;
+    outline: none;
+}
+
+.searchForm{
+    margin: 10px 0px 10px 5px;
+}
